@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Cedarville+Cursive");
+@import url('https://fonts.googleapis.com/css2?family=Aladin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+header{
+    background-color: white;
+    font-family: 'Aladin', cursive;
+    font-size: 50px;
+}
+
+h3{
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+a{
+    color: indigo;
+}
+body{
+    background-color: white
+}
+nav{
+    background-color:rgb(147, 129, 223);
+}
+footer{
+    background-color: rgb(77, 72, 160);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color:rebeccapurple;
+}
+
+#mom{
+    background-color: rgb(222, 141, 41);  
+}
+.green{
+    color:rgb(52, 15, 92);
+    font-size: 22px;
+  justify-content:first baseline;
+    font-family: 'Aladin', cursive;
+}
+.contenedor{
+    display: flex;
+    flex-direction: column;
+}
+
+.caja{
+    justify-content: center;
+    display:flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    width: 100%;
+    background-color: rgb(80, 80, 149);
+    font-family: 'Sacramento', cursive;
+    color: white;
+    font-size: 44px;
+}
+
+.lista{
+    flex-direction: row;
+    display: flex;
+    gap:10px
+}
