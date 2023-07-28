@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"/> <!-- siempre enlazarlos -->
+    <title> k b . i n k </title>
+</head>
+
+<body>
+    <header>
+        <div>    
+            <a href="https://www.instagram.com/kleinbu.ink"> 
+                <img src="./IMG/cara.jpeg" alt="cara" width="321px">
+            </a>
+                <h1> K l e i n b u . i n K </h1>
+                <h3> ·: tatuajes con amor :· </h3>
+            </div>
+      <nav>
+        <a href="#"> xim </a>
+        <a href="#"> contacto </a>
+        <a href="#"> FQ </a>
+        </nav>
+    </header>
+<main> 
+<div class="contenedor"> 
+    
+    <div class="caja"> 
+    <h4> <a href="#"> <li class="green"> tatuajes organicos </li></a></h4>
+    <p> sin forma ni estilo, encuentran su espacio en el ser </p>  
+    <img src="./IMG/cos.png" alt="cos" width="420px">
+    </div>
+        <div class="caja"> 
+    <h4> <a href="#"> <li class="green"> tatuajes representativos </li></a> </h4>
+    <p id="gira"> mi representacion de tus historias y fantasias </p>
+    <img src="./IMG/rat.png" alt="rat" width="420px">
+    </div>
+        <div class="caja"> 
+    <h4> <a href="·"> <li class="green"> tatuajes con numerologia </li></a> </h4>
+    <p> codigos a partir de numerologia pitagorica </p>
+        <img src="./IMG/pechi.png" alt="pechi" width="420px">
+        </div>
+
+</div>
+        <div>
+            <iframe width="580px" height="320px" src="https://www.youtube.com/embed/BxOw3Zy_GxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+</main>
+<footer id="mom" >  
+    ·: X I P R E C A 2023 &copy: </footer>
+</body>
+</html>
